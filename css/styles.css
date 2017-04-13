@@ -1,12 +1,13 @@
 body {
     text-align: center;
-    color: gray;
+    color: white;
+    background: gray;
     font-size: 20px;
 }
 
 .jumbotron {
     padding: 2%;
-    background: orange;
+    background: #4285F4;
     color: #fff;
 }
 
@@ -31,6 +32,7 @@ main {
 .tag-lg {
     margin-right: 2%;
     margin-bottom: 2%;
+    background: white;
     box-shadow: 1px 2px 2px 1px rgba(0,0,0,0.1);
 }
 
@@ -48,6 +50,7 @@ main {
 
 .allowed-letter {
     font-size: 40px;
+    background: white;
     color: orange;
 }
 
